@@ -52,7 +52,7 @@ function Header() {
                   About
                 </NavLink>
               </li>
-              {/* <li>
+              <li>
                 <NavLink
                 to='/contact'
                   className={({isActive, isPending}) =>
@@ -71,7 +71,7 @@ function Header() {
                 >
                   Github
                 </NavLink>
-              </li> */}
+              </li>
             </ul>
           </div>
         </div>
